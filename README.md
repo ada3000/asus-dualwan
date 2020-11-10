@@ -1,5 +1,6 @@
-# asus-dualwan
-DualWan implementation for old models
+# Asus dualwan
+DualWan implementation for old models.
+This useful for follover second internet connection when first is broken
 
 Inspired by article: https://www.securityforrealpeople.com/2015/08/cron-on-asus.html
 
