@@ -1,0 +1,1 @@
+*/5 * * * * /jffs/check_and_swap_wan.sh
