@@ -13,4 +13,6 @@ Inspired by article: https://www.securityforrealpeople.com/2015/08/cron-on-asus.
 5. Install autocopy cron tab:
 5.1 nvram set jffs2_exec="/jffs/autostart.sh"
 5.2 nvram commit
-6. Enjoy
+6. Epic fail: you can't run cron job on asus router witout merlin firmware((((((((((((
+
+I emulate cron from raspberry pi CRON with command like "ssh -p 1234 admin@1.1.1.1 /jffs/check_and_swap_wan.sh"
